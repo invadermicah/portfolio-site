@@ -1,0 +1,25 @@
+---
+title: "Projects"
+---
+
+Below is a project a classmate and I built for a client presentation. I focus on clear goals, clean methods, and explainable results.
+
+## Featured
+
+:::: grid
+::: card
+### [Amazon Movies/TV Recommender](Amazon_Recommender.pdf)
+
+**Type:** Recommender systems\
+**Tools:** Collaborative filtering (SVD-style approach), evaluation metrics
+
+-   Generated personalized recommendations from user-item interactions\
+-   Evaluated performance and improved relevance with tuning
+
+📄 *Click to view project*
+:::
+::::
+
+## More coming soon
+
+I’m always adding new work!

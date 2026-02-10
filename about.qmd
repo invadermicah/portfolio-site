@@ -1,0 +1,33 @@
+---
+title: "About Me"
+---
+
+::: {.hero .hero-wrap}
+
+![](headshot.PNG)
+
+::: {.hero-text}
+Hi, I’m **Micah Gifford**, currently pursuing a **BSI in Data Science, minoring in Business Administration at Baylor University**, and I play **football (safety)** for the university as well.
+
+I enjoy projects that combine: **Machine learning + real data** - **finance/business decision-making** - **clean, reproducible workflows**
+
+:::
+---
+
+### What I’m working toward
+
+I’m aiming to build a career in financial data analytics / data science, where I can solve practical problems and communicate insights clearly.
+
+---
+
+### Skills
+
+-   **Python**
+-   **R/Quarto**
+-   **Modeling:** classification/regression, metrics, validation
+-   **Data:** cleaning, feature engineering, visualization
+-   **Tools:** Git/GitHub, basic cloud workflows
+
+---
+
+If you'd like to collaborate or connect, head to the [**Contact**](contact.qmd) page.

@@ -1,0 +1,46 @@
+---
+title: ""
+---
+
+::: hero-text
+# Micah Gifford
+
+**Baylor University • BSI in Data Science • Business Admin Minor • Football Safety**\
+Interested in financial analytics, machine learning, and building real-world data products.
+:::
+
+[More About Me](about.qmd){.btn .btn-outline-primary} [View Projects](projects.qmd){.btn .btn-outline-primary} [View Resume](resume.pdf){.btn .btn-outline-primary} [Contact](contact.qmd){.btn .btn-outline-primary}
+
+## What I do
+
+:::::: grid
+::: card
+### Machine Learning
+
+Regression/classification, model evaluation, feature engineering, and clean pipelines.
+:::
+
+::: card
+### Analytics & Business
+
+Dashboards, KPI thinking, and turning data into decisions.
+:::
+
+::: card
+### Systems & Cloud
+
+Comfortable working with tools like AWS, Git, and reproducible workflows.
+:::
+::::::
+
+## Featured Work
+
+:::: grid
+::: card
+### Recommender System
+
+Personalized movie/tv recommendations with collaborative filtering and rating-based evaluation.
+
+[See project](projects.qmd){.btn .btn-outline-secondary}
+:::
+::::

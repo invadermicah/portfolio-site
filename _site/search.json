@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Micah Gifford",
+    "section": "",
+    "text": "Baylor University • BSI in Data Science • Business Admin Minor • Football Safety\nInterested in financial analytics, machine learning, and building real-world data products.\nMore About Me View Projects View Resume Contact"
+  },
+  {
+    "objectID": "index.html#micah-gifford",
+    "href": "index.html#micah-gifford",
+    "title": "Micah Gifford Portfolio",
+    "section": "",
+    "text": "Data Science @ Baylor • Football Safety • Financial Analytics\nView Projects Contact"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Micah Gifford Portfolio",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\n\nShort desc Read more →\n\n\n\nShort desc Read more →\n\n\n\nShort desc Read more →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Micah Gifford, currently pursuing a BSI in Data Science, minoring in Business Administration at Baylor University, and I play football (safety) for the university as well.\nI enjoy projects that combine: Machine learning + real data - finance/business decision-making - clean, reproducible workflows\n\n\n\nWhat I’m working toward\nI’m aiming to build a career in financial data analytics / data science, where I can solve practical problems and communicate insights clearly.\n\n\n\nSkills\n\nPython\nR/Quarto\nModeling: classification/regression, metrics, validation\nData: cleaning, feature engineering, visualization\nTools: Git/GitHub, basic cloud workflows\n\n\nIf you’d like to collaborate or connect, head to the Contact page."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below is a project a classmate and I built for a client presentation. I focus on clear goals, clean methods, and explainable results."
+  },
+  {
+    "objectID": "projects.html#featured",
+    "href": "projects.html#featured",
+    "title": "Projects",
+    "section": "Featured",
+    "text": "Featured\n\n\nAmazon Movies/TV Recommender\nType: Recommender systems\nTools: Collaborative filtering (SVD-style approach), evaluation metrics\n\nGenerated personalized recommendations from user-item interactions\n\nEvaluated performance and improved relevance with tuning\n\n📄 Click to view project"
+  },
+  {
+    "objectID": "projects.html#more-coming-soon",
+    "href": "projects.html#more-coming-soon",
+    "title": "Projects",
+    "section": "More coming soon",
+    "text": "More coming soon\nI’m always adding new work!"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Here is a\nDownload Resume"
+  },
+  {
+    "objectID": "resume.html#resume-pdf",
+    "href": "resume.html#resume-pdf",
+    "title": "Resume",
+    "section": "",
+    "text": "Here is a\nDownload Resume"
+  },
+  {
+    "objectID": "resume.html#quick-summary",
+    "href": "resume.html#quick-summary",
+    "title": "Resume",
+    "section": "Quick Summary",
+    "text": "Quick Summary\nMicah Gifford\nData Science (Baylor) • Business Administration minor • Football Safety\nInterested in financial analytics, machine learning, and data-driven decision making.\n\nSkills\n\nPython (pandas, scikit-learn), data cleaning, modeling\nVisualization, reporting, and business-focused analytics\nGit workflows and reproducible projects\n\n\n\nExperience / Projects\nSee my Projects page for highlights and links."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "These would be the best ways to reach me. You can also message me through the form below."
+  },
+  {
+    "objectID": "contact.html#message-me",
+    "href": "contact.html#message-me",
+    "title": "Contact",
+    "section": "Message me",
+    "text": "Message me\n\n\n\nName  \n\n\nEmail  \n\n\nMessage\n\n\n\n\n\nSend"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Micah Gifford",
+    "section": "What I do",
+    "text": "What I do\n\n\nMachine Learning\nRegression/classification, model evaluation, feature engineering, and clean pipelines.\n\n\nAnalytics & Business\nDashboards, KPI thinking, and turning data into decisions.\n\n\nSystems & Cloud\nComfortable working with tools like AWS, Git, and reproducible workflows."
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Micah Gifford",
+    "section": "Featured Work",
+    "text": "Featured Work\n\n\nRecommender System\nPersonalized movie/tv recommendations with collaborative filtering and rating-based evaluation.\nSee project"
+  }
+]
