@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Micah Gifford",
-    "section": "",
-    "text": "Baylor University • BSI in Data Science • Business Admin Minor • Football Safety\nInterested in financial analytics, machine learning, and building real-world data products.\nMore About Me View Projects View Resume Contact"
-  },
-  {
-    "objectID": "index.html#micah-gifford",
-    "href": "index.html#micah-gifford",
-    "title": "Micah Gifford Portfolio",
-    "section": "",
-    "text": "Data Science @ Baylor • Football Safety • Financial Analytics\nView Projects Contact"
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Micah Gifford Portfolio",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\n\n\nShort desc Read more →\n\n\n\nShort desc Read more →\n\n\n\nShort desc Read more →"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -49,27 +28,6 @@
     "text": "More coming soon\nI’m always adding new work!"
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "Here is a\nDownload Resume"
-  },
-  {
-    "objectID": "resume.html#resume-pdf",
-    "href": "resume.html#resume-pdf",
-    "title": "Resume",
-    "section": "",
-    "text": "Here is a\nDownload Resume"
-  },
-  {
-    "objectID": "resume.html#quick-summary",
-    "href": "resume.html#quick-summary",
-    "title": "Resume",
-    "section": "Quick Summary",
-    "text": "Quick Summary\nMicah Gifford\nData Science (Baylor) • Business Administration minor • Football Safety\nInterested in financial analytics, machine learning, and data-driven decision making.\n\nSkills\n\nPython (pandas, scikit-learn), data cleaning, modeling\nVisualization, reporting, and business-focused analytics\nGit workflows and reproducible projects\n\n\n\nExperience / Projects\nSee my Projects page for highlights and links."
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -82,6 +40,13 @@
     "title": "Contact",
     "section": "Message me",
     "text": "Message me\n\n\n\nName  \n\n\nEmail  \n\n\nMessage\n\n\n\n\n\nSend"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Micah Gifford",
+    "section": "",
+    "text": "Baylor University • BSI in Data Science • Business Admin Minor • Football Safety\nInterested in financial analytics, machine learning, and building real-world data products.\nMore About Me View Projects View Resume Contact"
   },
   {
     "objectID": "index.html#what-i-do",
