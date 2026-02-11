@@ -2,42 +2,7 @@
 title: "Contact"
 ---
 
-These would be the best ways to reach me. You can also message me through the form below.
+These would be the best ways to reach me.
 
 -   **Email:** micahgiff\@gmail.com
 -   [**LinkedIn**](https://www.linkedin.com/in/micah-gifford-4a741026a/)
-
-## Message me
-
-
-<form name="contact" method="POST" data-netlify="true">
-
-<input type="hidden" name="form-name" value="contact" />
-
-<p><label>Name<br /> <input type="text" name="name" required /> </label></p>
-
-<p><label>Email<br /> <input type="email" name="email" required /> </label></p>
-
-<p>
-
-<label>Message<br />
-
-```{=html}
-<textarea name="message" rows="6" required></textarea>
-```
-
-</label>
-
-</p>
-
-<p>
-
-<button type="submit">
-
-Send
-
-</button>
-
-</p>
-
-</form>
