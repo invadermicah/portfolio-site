@@ -1,0 +1,48 @@
+---
+title: "Projects"
+---
+
+I focus on clear goals, clean methods, and results that are explainable to both technical and non-technical audiences. Each project below reflects real data and real decisions.
+
+## Featured
+
+:::::: grid
+::: card
+### Amazon Movies/TV Recommender
+
+**Type:** Recommender System\
+**Tools:** Python, Collaborative Filtering (SVD), VADER Sentiment Analysis, Pandas, Matplotlib
+
+- Analyzed 9M+ IMDb and Amazon movie ratings to surface underrated films
+- Used VADER to run sentiment analysis on written reviews and compared results to star ratings (r = 0.81 correlation)
+- Found documentaries were the most underrated genre; action films the most overrated
+- Spider-Man 3 identified as the single most underrated film in the dataset
+- Built a hybrid ranking system weighting both star ratings and sentiment scores
+
+[📄 View PDF](Amazon_Recommender.pdf){.btn .btn-outline-secondary} [📊 View Slides](Amazon_Recommender.pptx){.btn .btn-outline-secondary}
+:::
+
+::: card
+### How Sleep Shapes the Freshman Year
+
+**Type:** Interactive Data Visualization\
+**Tools:** R/Rstudio, Tidyverse, Shiny
+
+- Built an interactive scrollytelling experience around a 2023 PNAS study on 634 real CMU freshmen
+- Explored the relationship between sleep habits, duration, and academic GPA during freshman year
+- Deployed as a standalone web application via Vercel
+- Personally relevant as a student-athlete managing sleep, recovery, and performance
+
+[🌐 View Live Project](https://data-viz-final-project-theta.vercel.app/){.btn .btn-outline-secondary}
+:::
+::::::
+
+---
+
+::: athlete-callout
+💡 **A note on my work:** As a D-I student-athlete, every project I take on competes with practice, film, travel, and games. The work here reflects what I build in the margins — and what I'd build full-time given the chance.
+:::
+
+---
+
+More projects in progress — check back soon.

@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+I'm always open to connecting — whether it's about data science, internships, collaborations, or just a good conversation. The best ways to reach me are below.
+
+---
+
+::: contact-links
+[✉️ micahgiff\@gmail.com](mailto:micahgiff@gmail.com){.btn .btn-outline-primary}   [💼 LinkedIn](https://www.linkedin.com/in/micah-gifford-4a741026a/){.btn .btn-outline-primary}   [💻 GitHub](https://github.com/invadermicah){.btn .btn-outline-primary}
+:::

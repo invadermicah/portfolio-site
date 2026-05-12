@@ -1,0 +1,89 @@
+---
+title: "About Me"
+---
+
+::: hero-about
+![](headshot.PNG){.about-photo}
+
+::: about-text
+Hi, I'm **Micah Gifford**, a **Data Science student at Baylor University** (minoring in Business Administration) and a **Division I football player (safety)** for the Baylor Bears.
+
+I enjoy projects that combine **machine learning + real data**, **finance and business decision-making**, and **clean, reproducible workflows**.
+:::
+:::
+
+---
+
+### What I'm Working Toward
+
+I'm building toward a career in **financial data analytics and data science** — solving practical problems and communicating insights clearly to both technical and non-technical audiences.
+
+---
+
+### Life as a Student-Athlete
+
+::: athlete-callout
+🏈 Playing D-I football at Baylor means committing **20+ hours every week** to practice, film study, travel, and competition — on top of a full academic course load. That environment has sharpened my ability to manage time ruthlessly, perform under pressure, lead in a team setting, and show up consistently even when it's hard. I bring that same standard to my data work.
+:::
+
+---
+
+### Skills
+
+::: skills-grid
+::: skill-badge
+Python
+:::
+
+::: skill-badge
+R / Quarto
+:::
+
+::: skill-badge
+Machine Learning
+:::
+
+::: skill-badge
+Data Wrangling
+:::
+
+::: skill-badge
+Data Visualization
+:::
+
+::: skill-badge
+Git / GitHub
+:::
+
+::: skill-badge
+SQL
+:::
+
+::: skill-badge
+AWS (basics)
+:::
+:::
+
+---
+
+### Currently Learning
+
+::: currently-learning
+I'm actively expanding my toolkit as I work toward my career goals:
+
+::: learning-grid
+::: learning-item
+📊 **Tableau**\
+Building interactive dashboards and business intelligence visualizations.
+:::
+
+::: learning-item
+💹 **Financial Modeling with Python**\
+Applying data science to portfolio analysis, risk, and forecasting.
+:::
+:::
+:::
+
+---
+
+If you'd like to collaborate or connect, head to the [**Contact**](contact.qmd) page.

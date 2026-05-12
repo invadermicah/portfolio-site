@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Micah Gifford, a Data Science student at Baylor University (minoring in Business Administration) and a Division I football player (safety) for the Baylor Bears.\nI enjoy projects that combine machine learning + real data, finance and business decision-making, and clean, reproducible workflows.\n\n\n\n\nWhat I’m Working Toward\nI’m building toward a career in financial data analytics and data science — solving practical problems and communicating insights clearly to both technical and non-technical audiences.\n\n\n\nLife as a Student-Athlete\n\n🏈 Playing D-I football at Baylor means committing 20+ hours every week to practice, film study, travel, and competition — on top of a full academic course load. That environment has sharpened my ability to manage time ruthlessly, perform under pressure, lead in a team setting, and show up consistently even when it’s hard. I bring that same standard to my data work.\n\n\n\n\nSkills\n\n\nPython\n\n\nR / Quarto\n\n\nMachine Learning\n\n\nData Wrangling\n\n\nData Visualization\n\n\nGit / GitHub\n\n\nSQL\n\n\nAWS (basics)\n\n\n\n\n\nCurrently Learning\n\nI’m actively expanding my toolkit as I work toward my career goals:\n\n\n📊 Tableau\nBuilding interactive dashboards and business intelligence visualizations.\n\n\n💹 Financial Modeling with Python\nApplying data science to portfolio analysis, risk, and forecasting.\n\n\n\n\nIf you’d like to collaborate or connect, head to the Contact page."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I focus on clear goals, clean methods, and results that are explainable to both technical and non-technical audiences. Each project below reflects real data and real decisions."
+  },
+  {
+    "objectID": "projects.html#featured",
+    "href": "projects.html#featured",
+    "title": "Projects",
+    "section": "Featured",
+    "text": "Featured\n\n\nAmazon Movies/TV Recommender\nType: Recommender System\nTools: Python, Collaborative Filtering (SVD), VADER Sentiment Analysis, Pandas, Matplotlib\n\nAnalyzed 9M+ IMDb and Amazon movie ratings to surface underrated films\nUsed VADER to run sentiment analysis on written reviews and compared results to star ratings (r = 0.81 correlation)\nFound documentaries were the most underrated genre; action films the most overrated\nSpider-Man 3 identified as the single most underrated film in the dataset\nBuilt a hybrid ranking system weighting both star ratings and sentiment scores\n\n📄 View PDF 📊 View Slides\n\n\nHow Sleep Shapes the Freshman Year\nType: Interactive Data Visualization\nTools: R/Rstudio, Tidyverse, Shiny\n\nBuilt an interactive scrollytelling experience around a 2023 PNAS study on 634 real CMU freshmen\nExplored the relationship between sleep habits, duration, and academic GPA during freshman year\nDeployed as a standalone web application via Vercel\nPersonally relevant as a student-athlete managing sleep, recovery, and performance\n\n🌐 View Live Project\n\n\n\n\n💡 A note on my work: As a D-I student-athlete, every project I take on competes with practice, film, travel, and games. The work here reflects what I build in the margins — and what I’d build full-time given the chance.\n\n\nMore projects in progress — check back soon."
+  },
+  {
+    "objectID": "projects.html#more-coming-soon",
+    "href": "projects.html#more-coming-soon",
+    "title": "Projects",
+    "section": "More coming soon",
+    "text": "More coming soon\nI’m always adding new work!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always open to connecting — whether it’s about data science, internships, collaborations, or just a good conversation. The best ways to reach me are below.\n\n\n✉️ micahgiff@gmail.com 💼 LinkedIn 💻 GitHub"
+  },
+  {
+    "objectID": "contact.html#message-me",
+    "href": "contact.html#message-me",
+    "title": "Contact",
+    "section": "Message me",
+    "text": "Message me\n\n\n\nName  \n\n\nEmail  \n\n\nMessage\n\n\n\n\n\nSend"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Micah Gifford",
+    "section": "",
+    "text": "Data Science student at Baylor University combining analytics, machine learning, and athlete-level discipline to build data products that solve real-world business problems.\nMore About Me View Projects View Resume Contact\n\n\n\n🏈 Student-Athlete: Balancing 20+ hrs/week of D-I football at Baylor with a full Data Science curriculum — bringing the same discipline, time management, and coachability to every project."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Micah Gifford",
+    "section": "What I Do",
+    "text": "What I Do\n\n\nMachine Learning\nRegression, classification, model evaluation, feature engineering, and clean pipelines.\n\n\nAnalytics & Business\nDashboards, KPI thinking, and turning raw data into decisions that matter.\n\n\nSystems & Cloud\nComfortable with AWS, Git, and reproducible workflows built to last."
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Micah Gifford",
+    "section": "Featured Work",
+    "text": "Featured Work\n\n\nAmazon Movie Recommender\nAnalyzed 9M+ ratings using collaborative filtering and VADER sentiment analysis to surface underrated films.\nSee project\n\n\nSleep & the Freshman Year\nInteractive data visualization exploring how sleep patterns affect GPA in 634 real college freshmen.\nView live"
+  }
+]

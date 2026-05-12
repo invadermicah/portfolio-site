@@ -1,0 +1,65 @@
+---
+title: ""
+---
+
+::: hero
+::: hero-inner
+::: hero-photo
+![](headshot.PNG)
+:::
+
+::: hero-text
+# Micah Gifford
+
+**Data Science** student at **Baylor University** combining analytics, machine learning, and athlete-level discipline to build data products that solve real-world business problems.
+
+[More About Me](about.qmd){.btn .btn-outline-primary} [View Projects](projects.qmd){.btn .btn-outline-primary} [View Resume](resume.pdf){.btn .btn-outline-primary} [Contact](contact.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+::: athlete-callout
+🏈 **Student-Athlete:** Balancing 20+ hrs/week of D-I football at Baylor with a full Data Science curriculum — bringing the same discipline, time management, and coachability to every project.
+:::
+:::
+
+## What I Do
+
+:::::: grid
+::: card
+### Machine Learning
+
+Regression, classification, model evaluation, feature engineering, and clean pipelines.
+:::
+
+::: card
+### Analytics & Business
+
+Dashboards, KPI thinking, and turning raw data into decisions that matter.
+:::
+
+::: card
+### Systems & Cloud
+
+Comfortable with AWS, Git, and reproducible workflows built to last.
+:::
+::::::
+
+## Featured Work
+
+:::::: grid
+::: card
+### Amazon Movie Recommender
+
+Analyzed 9M+ ratings using collaborative filtering and VADER sentiment analysis to surface underrated films.
+
+[See project](projects.qmd){.btn .btn-outline-secondary}
+:::
+
+::: card
+### Sleep & the Freshman Year
+
+Interactive data visualization exploring how sleep patterns affect GPA in 634 real college freshmen.
+
+[View live](https://data-viz-final-project-theta.vercel.app/){.btn .btn-outline-secondary}
+:::
+::::::
