@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -72,6 +73,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Micah Gifford | Data Science Portfolio">
+<meta property="og:description" content="Data Science student at Baylor University and D-I football athlete building data products that solve real-world business problems.">
+<meta property="og:image" content="headshot.PNG">
+<meta property="og:site_name" content="Micah Gifford">
+<meta name="twitter:title" content="Micah Gifford | Data Science Portfolio">
+<meta name="twitter:description" content="Data Science student at Baylor University and D-I football athlete building data products that solve real-world business problems.">
+<meta name="twitter:image" content="headshot.PNG">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -107,6 +116,16 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/micahgifford"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/micah-gifford-4a741026a/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -141,26 +160,42 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Below is a project a classmate and I built for a client presentation. I focus on clear goals, clean methods, and explainable results.</p>
+<p>I focus on clear goals, clean methods, and results that are explainable to both technical and non-technical audiences. Each project below reflects real data and real decisions.</p>
 <section id="featured" class="level2">
 <h2 class="anchored" data-anchor-id="featured">Featured</h2>
 <div class="grid">
 <section id="amazon-moviestv-recommender" class="level3 card">
-<h3 class="anchored" data-anchor-id="amazon-moviestv-recommender"><a href="Amazon_Recommender.pdf">Amazon Movies/TV Recommender</a></h3>
-<p><strong>Type:</strong> Recommender systems<br>
-<strong>Tools:</strong> Collaborative filtering (SVD-style approach), evaluation metrics</p>
+<h3 class="anchored" data-anchor-id="amazon-moviestv-recommender">Amazon Movies/TV Recommender</h3>
+<p><strong>Type:</strong> Recommender System<br>
+<strong>Tools:</strong> Python, Collaborative Filtering (SVD), VADER Sentiment Analysis, Pandas, Matplotlib</p>
 <ul>
-<li>Generated personalized recommendations from user-item interactions<br>
-</li>
-<li>Evaluated performance and improved relevance with tuning</li>
+<li>Analyzed 9M+ IMDb and Amazon movie ratings to surface underrated films</li>
+<li>Used VADER to run sentiment analysis on written reviews and compared results to star ratings (r = 0.81 correlation)</li>
+<li>Found documentaries were the most underrated genre; action films the most overrated</li>
+<li>Spider-Man 3 identified as the single most underrated film in the dataset</li>
+<li>Built a hybrid ranking system weighting both star ratings and sentiment scores</li>
 </ul>
-<p>📄 <em>Click to view project</em></p>
+<p><a href="Amazon_Recommender.pdf" class="btn btn-outline-secondary">📄 View PDF</a> <a href="Amazon_Recommender.pptx" class="btn btn-outline-secondary">📊 View Slides</a></p>
+</section>
+<section id="how-sleep-shapes-the-freshman-year" class="level3 card">
+<h3 class="anchored" data-anchor-id="how-sleep-shapes-the-freshman-year">How Sleep Shapes the Freshman Year</h3>
+<p><strong>Type:</strong> Interactive Data Visualization<br>
+<strong>Tools:</strong> R/Rstudio, Tidyverse, Shiny</p>
+<ul>
+<li>Built an interactive scrollytelling experience around a 2023 PNAS study on 634 real CMU freshmen</li>
+<li>Explored the relationship between sleep habits, duration, and academic GPA during freshman year</li>
+<li>Deployed as a standalone web application via Vercel</li>
+<li>Personally relevant as a student-athlete managing sleep, recovery, and performance</li>
+</ul>
+<p><a href="https://data-viz-final-project-theta.vercel.app/" class="btn btn-outline-secondary">🌐 View Live Project</a></p>
 </section>
 </div>
-</section>
-<section id="more-coming-soon" class="level2">
-<h2 class="anchored" data-anchor-id="more-coming-soon">More coming soon</h2>
-<p>I’m always adding new work!</p>
+<hr>
+<div class="athlete-callout">
+<p>💡 <strong>A note on my work:</strong> As a D-I student-athlete, every project I take on competes with practice, film, travel, and games. The work here reflects what I build in the margins — and what I’d build full-time given the chance.</p>
+</div>
+<hr>
+<p>More projects in progress — check back soon.</p>
 
 
 </section>
@@ -580,6 +615,11 @@ ul.task-list li input[type="checkbox"] {
     <li class="nav-item">
     <a class="nav-link" href="https://www.linkedin.com/in/micah-gifford-4a741026a/">
 <p>LinkedIn</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://github.com/micahgifford">
+<p>GitHub</p>
 </a>
   </li>  
 </ul>

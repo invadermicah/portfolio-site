@@ -4,6 +4,17 @@ project:
 
 website:
   title: "Micah Gifford"
+  description: "Data Science student at Baylor University and D-I football athlete building data products that solve real-world business problems."
+  favicon: favicon.png
+  open-graph:
+    title: "Micah Gifford | Data Science Portfolio"
+    description: "Data Science student at Baylor University and D-I football athlete building data products that solve real-world business problems."
+    image: headshot.PNG
+  twitter-card:
+    title: "Micah Gifford | Data Science Portfolio"
+    description: "Data Science student at Baylor University and D-I football athlete building data products that solve real-world business problems."
+    image: headshot.PNG
+    card-style: summary_large_image
   navbar:
     right:
       - text: "Home"
@@ -14,11 +25,19 @@ website:
         href: projects.qmd
       - text: "Contact"
         href: contact.qmd
+      - icon: github
+        href: https://github.com/micahgifford
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/micah-gifford-4a741026a/
+        aria-label: LinkedIn
   page-footer:
     left: "© 2026 Micah Gifford"
     right:
       - text: "LinkedIn"
         href: https://www.linkedin.com/in/micah-gifford-4a741026a/
+      - text: "GitHub"
+        href: https://github.com/micahgifford
 
 format:
   html:
@@ -26,6 +45,5 @@ format:
     css: styles.css
     toc: false
     smooth-scroll: true
-    
-editor: visual
 
+editor: visual
